@@ -144,7 +144,8 @@ This is the largest section of the stomach, located between the fundus and the p
 The pylorus is the lower, funnel-shaped part of the stomach that connects to the duodenum (the first part of the small intestine). The pylorus also includes the pyloric antrum and the pyloric canal, which leads to the pyloric sphincter. The pyloric sphincter controls the release of stomach contents into the small intestine. 
 
 # Intestine
-<img width="610" height="834" alt="image" src="https://github.com/user-attachments/assets/bb1dba12-4943-46b9-b6d6-132936aa8535" />
+<img width="1155" height="702" alt="image" src="https://github.com/user-attachments/assets/45d16a93-317d-4c1f-9afc-4d8805317de6" />
+
 
 The intestine, also known as the bowel, is a long, muscular tube in the digestive system that extends from the stomach to the anus. It's divided into two main sections: the small intestine and the large intestine. The intestine's primary function is to digest food and absorb nutrients, but it also plays roles in hormone production, immune defense, and regulating water balance.
 
