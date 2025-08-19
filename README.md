@@ -1,6 +1,9 @@
 # Organs In Our Body
                Created by Roohith
 # Brain
+
+<img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/3669f58b-5323-4fbb-b365-bb19e29614d1" />
+
 The brain is a complex organ that serves as the central control center of the human body. It's responsible for a wide range of functions, from regulating basic bodily processes to enabling higher-level cognitive abilities like thought, memory, and emotions. The brain works by receiving, processing, and sending information through a vast network of nerve cells called neurons.
 
 # The parts of the brain :
@@ -12,6 +15,9 @@ The brain is a complex organ that serves as the central control center of the hu
 **Brainstem**: Connects the cerebrum to the spinal cord, controlling basic life functions like breathing, heart rate, and sleep.
 
 # Heart
+
+<img width="270" height="187" alt="image" src="https://github.com/user-attachments/assets/6de91be3-548d-4e17-99c4-a9001759bfc8" />
+
 The heart is a vital muscular organ about the size of a fist that pumps blood throughout the body. It is located in the chest, slightly to the left of the breastbone, between the lungs. The heart has four chambers and four valves that regulate blood flow. It works as a pump, circulating blood to deliver oxygen and nutrients to the body and remove waste products.
 
 # The parts of the heart:
@@ -109,6 +115,8 @@ The liver stores vitamins and minerals for later use by the body.
 
 # Stomach
 
+<img width="263" height="191" alt="image" src="https://github.com/user-attachments/assets/bd7e04ea-1edc-48c0-8d1c-e44187fff073" />
+
 The stomach is a muscular, J-shaped organ in the upper abdomen that plays a key role in digestion. It acts as a food reservoir, mixing ingested food with digestive juices to create chyme, a thick liquid that is then passed on to the small intestine. 
 The stomach is located in the upper left abdomen, beneath the diaphragm. 
 It connects the esophagus (food pipe) to the small intestine. 
@@ -136,6 +144,7 @@ This is the largest section of the stomach, located between the fundus and the p
 The pylorus is the lower, funnel-shaped part of the stomach that connects to the duodenum (the first part of the small intestine). The pylorus also includes the pyloric antrum and the pyloric canal, which leads to the pyloric sphincter. The pyloric sphincter controls the release of stomach contents into the small intestine. 
 
 # Intestine
+<img width="610" height="834" alt="image" src="https://github.com/user-attachments/assets/bb1dba12-4943-46b9-b6d6-132936aa8535" />
 
 The intestine, also known as the bowel, is a long, muscular tube in the digestive system that extends from the stomach to the anus. It's divided into two main sections: the small intestine and the large intestine. The intestine's primary function is to digest food and absorb nutrients, but it also plays roles in hormone production, immune defense, and regulating water balance.
 
