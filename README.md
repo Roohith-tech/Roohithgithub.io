@@ -1,5 +1,5 @@
 # Organs In Our Body
-               Created by Roohith
+               Created by Roohithgithub
 # Brain
 
 <img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/3669f58b-5323-4fbb-b365-bb19e29614d1" />
